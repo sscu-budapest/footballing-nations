@@ -1,38 +1,38 @@
 # footballing-nations
 
-[![DOI](https://zenodo.org/badge/doi/10.5281/zenodo.7584380.svg)](https://doi.org/10.5281/zenodo.7584380)
+[![DOI](https://zenodo.org/badge/doi/10.5281/zenodo.8071034.svg)](https://doi.org/10.5281/zenodo.8071034)
 > relies on [datazimmer](https://github.com/sscu-budapest/datazimmer) and the [tooling](https://sscu-budapest.github.io/tooling) of sscub
 
 ## Citation
 
 To reference this resource, please cite the dataset (Borza, 2023), and the software (Borza, Kovács, Pap, 2023) used to create, parse and publish it.
 
-Borza, Endre Márk. (2023). footballing-nations (zimmer-v0/0.0/2023.1.30.2/#raw). Zenodo. https://doi.org/10.5281/zenodo.7584380
+Borza, Endre Márk. (2023). footballing-nations (zimmer-v0/0.3/2023.6.22.1/#raw). Zenodo. https://doi.org/10.5281/zenodo.8071034
 
-Borza, Endre Márk & Kovács, Bence & Pap, Sebestyén. (2023). sscu-budapest/datazimmer (0.4.11). Zenodo. https://doi.org/10.5281/zenodo.7559366
+Borza, Endre Márk & Kovács, Bence & Pap, Sebestyén. (2023). sscu-budapest/datazimmer (v0.5.3). Zenodo. https://doi.org/10.5281/zenodo.8070164
 
 ```
-@software{borza_2023_7559366,
+@software{borza_2023_8070164,
   author       = {Borza, Endre Márk and Kovács, Bence and Pap, Sebestyén},
   title        = {sscu-budapest/datazimmer},
-  month        = {jan},
+  month        = {jun},
   year         = {2023},
   publisher    = {Zenodo},
-  version      = {0.4.11},
-  doi          = {10.5281/zenodo.7559366},
-  url          = {https://doi.org/10.5281/zenodo.7559366}
+  version      = {v0.5.3},
+  doi          = {10.5281/zenodo.8070164},
+  url          = {https://doi.org/10.5281/zenodo.8070164}
 }
 ```
 
 ```
-@dataset{borza_2023_7584380,
+@dataset{borza_2023_8071034,
   author       = {Borza, Endre Márk},
   title        = {footballing-nations},
-  month        = {jan},
+  month        = {jun},
   year         = {2023},
   publisher    = {Zenodo},
-  version      = {zimmer-v0/0.0/2023.1.30.2/#raw},
-  doi          = {10.5281/zenodo.7584380},
-  url          = {https://doi.org/10.5281/zenodo.7584380}
+  version      = {zimmer-v0/0.3/2023.6.22.1/#raw},
+  doi          = {10.5281/zenodo.8071034},
+  url          = {https://doi.org/10.5281/zenodo.8071034}
 }
 ```

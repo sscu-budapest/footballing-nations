@@ -3,18 +3,18 @@ authors:
   given-names: Endre Márk
   orcid: 0000-0002-8804-4520
 cff-version: 1.2.0
-date-released: '2023-01-30'
-doi: 10.5281/zenodo.7584380
+date-released: '2023-06-22'
+doi: 10.5281/zenodo.8071034
 keywords: []
 license: MIT
 message: If you use this software, please cite it as below.
 references:
-- date-released: '2023-01-22'
-  doi: 10.5281/zenodo.7559366
+- date-released: '2023-06-22'
+  doi: 10.5281/zenodo.8070164
   title: sscu-budapest/datazimmer
   type: software
-  version: 0.4.11
+  version: v0.5.3
 title: footballing-nations
 type: dataset
-url: https://doi.org/10.5281/zenodo.7584380
-version: zimmer-v0/0.0/2023.1.30.2/#raw
+url: https://doi.org/10.5281/zenodo.8071034
+version: zimmer-v0/0.3/2023.6.22.1/#raw
