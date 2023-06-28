@@ -3,8 +3,8 @@ authors:
   given-names: Endre Márk
   orcid: 0000-0002-8804-4520
 cff-version: 1.2.0
-date-released: '2023-06-22'
-doi: 10.5281/zenodo.8071034
+date-released: '2023-06-28'
+doi: 10.5281/zenodo.8092317
 keywords: []
 license: MIT
 message: If you use this software, please cite it as below.
@@ -16,5 +16,5 @@ references:
   version: v0.5.3
 title: footballing-nations
 type: dataset
-url: https://doi.org/10.5281/zenodo.8071034
-version: zimmer-v0/0.3/2023.6.22.1/#raw
+url: https://doi.org/10.5281/zenodo.8092317
+version: zimmer-v0/0.4/2023.6.28.1/#raw
